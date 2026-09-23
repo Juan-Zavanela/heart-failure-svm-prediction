@@ -1,0 +1,23 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ambientes de IDE
+.vscode/
+.idea/
+
+# Dados grandes (opcional - remova se quiser versionar o dataset)
+# data/*.csv

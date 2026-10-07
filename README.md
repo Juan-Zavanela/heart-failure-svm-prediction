@@ -47,4 +47,13 @@ Classificar se um paciente possui ou não doença cardíaca (`HeartDisease`: 0 =
 
 ## Autores
 
-Projeto desenvolvido em dupla como trabalho acadêmico.
+## Autores
+
+Projeto acadêmico desenvolvido em dupla na UMC.
+
+## Autores
+
+Projeto acadêmico desenvolvido em dupla na UMC.
+
+- **Juan Zavanela**: [LinkedIn](https://www.linkedin.com/in/juan-zavanela-32a90134b) · [GitHub](https://github.com/Juan-Zavanela)
+- **Jonathan Simões**: [LinkedIn](https://www.linkedin.com/in/jonathansim%C3%B5esjs/)

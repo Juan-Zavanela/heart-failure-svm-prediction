@@ -42,8 +42,8 @@ Classificar se um paciente possui ou não doença cardíaca (`HeartDisease`: 0 =
    ```bash
    pip install -r requirements.txt
    ```
-2. Baixe o dataset `heart.csv` do [Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) e coloque na pasta do projeto (ou ajuste o caminho no notebook).
-3. Abra e execute `summit-juan-jonathan.ipynb` em um ambiente Jupyter.
+2. O dataset já está incluído em `data/heart.csv` (fonte: [Heart Failure Prediction Dataset, Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)).
+3. Abra [`notebook/heart-failure-svm.ipynb`](notebook/heart-failure-svm.ipynb) em um ambiente Jupyter e execute as células na ordem.
 
 ## Autores
 

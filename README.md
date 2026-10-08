@@ -45,11 +45,6 @@ Classificar se um paciente possui ou não doença cardíaca (`HeartDisease`: 0 =
 2. O dataset já está incluído em `data/heart.csv` (fonte: [Heart Failure Prediction Dataset, Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)).
 3. Abra [`notebook/heart-failure-svm.ipynb`](notebook/heart-failure-svm.ipynb) em um ambiente Jupyter e execute as células na ordem.
 
-## Autores
-
-## Autores
-
-Projeto acadêmico desenvolvido em dupla na UMC.
 
 ## Autores
 
